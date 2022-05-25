@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning React, Go and how to build CI/CD pipelines
 - 💞️ I’m looking to collaborate on open source and innersource contributions
 - 📫 Feel free to reach out to me on [Twitter](https://twitter.com/mikejancar)
-- :house: Outside of work, I love being a father, playing mediocre :golf: golf and torturing myself watching the :baseball: Indians, :football: Browns and :basketball: Cavs
+- :house: Outside of work, I love being a father, playing mediocre :golf: golf and torturing myself watching the :baseball: Guardians, :football: Browns and :basketball: Cavs
