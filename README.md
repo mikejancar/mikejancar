@@ -1,6 +1,6 @@
-- 👋 I'm a software developer in the Open Source Office at @Progressive.
+- 👋 I'm a software developer in the Open Source Program Office at @Progressive.
 - 👀 I’m interested in full-stack development using technologies like JavaScript, Angular, RxJS, Node, AWS and REST APIs
-- 🌱 I’m currently learning React, Go and how to build CI/CD pipelines
+- 🌱 I’m currently learning Go and how to build CI/CD pipelines
 - 💞️ I’m looking to collaborate on open source and innersource contributions
 - 📫 Feel free to reach out to me on [Twitter](https://twitter.com/mikejancar)
-- :house: Outside of work, I love being a father, playing mediocre :golf: golf and torturing myself watching the :baseball: Guardians, :football: Browns and :basketball: Cavs
+- :house: Outside of work, I love being a husband and father, playing mediocre :golf: golf and torturing myself watching the :baseball: Guardians, :football: Browns and :basketball: Cavs
